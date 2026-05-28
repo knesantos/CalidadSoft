@@ -2,5 +2,5 @@
 Repositorio de prueba para la materia Calidad de Software
 
 
-#Prueba
+# Prueba
 Este es un archivo de prueba
